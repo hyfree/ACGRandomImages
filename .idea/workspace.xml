@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39fa8696-70ff-4216-b9be-c77c4e12989d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1j6BMD5q71O0Pbs1y9fnXPZeQi0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39fa8696-70ff-4216-b9be-c77c4e12989d" name="Default Changelist" comment="" />
+      <created>1603114610470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603114610470</updated>
+      <workItem from="1603114611482" duration="194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="707" y="238" key="#PHP" timestamp="1603114680760">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state x="707" y="238" key="#PHP/0.40.2048.1112@0.40.2048.1112" timestamp="1603114680760" />
+    <state x="588" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603114642867">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state x="588" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.2048.1112@0.40.2048.1112" timestamp="1603114642867" />
+  </component>
+</project>

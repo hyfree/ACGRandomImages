@@ -1,3 +1,5 @@
+# QCAPI-ACGIMAGES
+
 调用地址:http://xxx.com/giturl.php
 调用参数:return = json / jsonpro / url / urlpro / img
 json：返回一条标准json数据(图片地址)
@@ -12,3 +14,9 @@ img：直接显示图片不返回图片链接
 blog.qcair.cc
 瑾忆小栈
 www.qiuzq.cn
+# 安装
+
+## 准备
+1、Redis
+2、mysql
+## 安装要求
